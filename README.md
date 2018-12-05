@@ -1,7 +1,7 @@
 # Gun Violence Analysis (Project Proposal)
 
 *Team members*: Carlos, Emma, Kenny, and Victor  
-*Team name*: DeaThStaR
+*Team name*: Bleeding Tears
 
 ## Project theme
 
