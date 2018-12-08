@@ -20,6 +20,8 @@ The major theme of this project is gun violence in the United States. Specifical
 * [Gun violence data](https://github.com/jamesqo/gun-violence-data)
 * [FBI NICS firearm background check data](https://github.com/BuzzFeedNews/nics-firearm-background-checks)
 * [2016 mean income data](https://www.kff.org/other/state-indicator/median-annual-income/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D)
+* [Population Estimates](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=PEP_2017_PEPANNRES&prodType=table)
+
 
 ## Predictors and targets
 
